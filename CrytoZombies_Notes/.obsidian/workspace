@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. More Advanced Concepts.md",
+            "file": "ChainLink/2. Chainlink Data Feeds Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6d9b979d993c5b1",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. More Advanced Concepts.md",
+                "file": "ChainLink/2. Chainlink Data Feeds Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. More Advanced Concepts.md",
+                "file": "ChainLink/2. Chainlink Data Feeds Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. More Advanced Concepts.md"
+                "file": "ChainLink/2. Chainlink Data Feeds Introduction.md"
               }
             }
           }
@@ -130,8 +131,15 @@
   },
   "active": "a4f37eb5d8109119",
   "lastOpenFiles": [
+    "Solidity/2. More Basics.md",
+    "Solidity/1. The Basics.md",
+    "ChainLink/2. Chainlink Data Feeds Introduction.md",
+    "ChainLink/1. Introduction.md",
+    "Solidity/3. Advanced Concepts.md",
+    "Solidity/4. More Advanced Concepts.md",
+    "Solidity/6. Web3.js.md",
+    "Solidity/5. Tokens.md",
     "3. Advanced Concepts.md",
-    "1. The Basics.md",
-    "2. More Basics.md"
+    "1. The Basics.md"
   ]
 }
