@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "80c60987b9702ed2",
+    "id": "c47f2c67679065fb",
     "type": "split",
     "children": [
       {
-        "id": "675ffdbb331ef30e",
+        "id": "1d845dfa95a7b638",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Chainlink Data Feeds Introduction.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "479c20fb39448be5",
+    "id": "a8eb6aad26fcb7a8",
     "type": "split",
     "children": [
       {
-        "id": "b5c6868728967865",
+        "id": "762a60ce8f871c77",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3b2af569f89c8e",
+            "id": "e60540155fe45203",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "97f6c816e1c066ce",
+            "id": "75eeb6a05f1e1d80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,34 +50,34 @@
             }
           },
           {
-            "id": "16b625079fee7285",
+            "id": "e03424c16c8c8986",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "bbc9d8451f1f9fc2",
+    "id": "ae95c5ca2434771e",
     "type": "split",
     "children": [
       {
-        "id": "6cc0906201188c27",
+        "id": "43c9b200111437ea",
         "type": "tabs",
         "children": [
           {
-            "id": "0f10f2f39e423565",
+            "id": "3690eaf660e57810",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Chainlink Data Feeds Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,18 +89,19 @@
             }
           },
           {
-            "id": "4cc2cc17f508d430",
+            "id": "6fe9f053d27da236",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Chainlink Data Feeds Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ceadf51ae56d37db",
+            "id": "ad8f5484061ebea6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,11 +112,13 @@
             }
           },
           {
-            "id": "9d04fa055ee67efc",
+            "id": "36768a258d526c33",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Chainlink Data Feeds Introduction.md"
+              }
             }
           }
         ]
@@ -121,16 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16b625079fee7285",
+  "active": "1d845dfa95a7b638",
   "lastOpenFiles": [
-    "Solidity.md",
-    "Smart Contracts.md",
-    "MetaMask.md",
-    "Function Declarations.md",
-    "Block Time for Ethereum.md",
-    "Basic Blockchain.md",
-    "Understanding flow of transaction and Why Waiting.md",
-    "What is Ethereum.md",
-    "Transactions.md"
+    "Images/Chainlink VRF.png",
+    "2. Chainlink Data Feeds Introduction.md"
   ]
 }
