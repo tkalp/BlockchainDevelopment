@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
+            "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c6d9b979d993c5b1",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
+                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
+                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md"
+                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md"
               }
             }
           }
@@ -132,14 +131,14 @@
   "active": "91e26f8c212d7755",
   "lastOpenFiles": [
     "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
+    "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
+    "Untitled.md",
+    "1. Solidity/6. Web3.js.md",
     "1. Solidity/3. Advanced Concepts.md",
     "1. Solidity/4. More Advanced Concepts.md",
-    "1. Solidity/6. Web3.js.md",
     "2. ChainLink/2. Chainlink Introduction.md",
     "ChainLink/2. Chainlink Data Feeds Introduction.md",
     "1. Solidity/2. More Basics.md",
-    "1. Solidity/1. The Basics.md",
-    "2. ChainLink/1. Introduction.md",
-    "1. Solidity/5. Tokens.md"
+    "1. Solidity/1. The Basics.md"
   ]
 }
