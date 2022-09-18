@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6d9b979d993c5b1",
@@ -130,9 +131,9 @@
   },
   "active": "91e26f8c212d7755",
   "lastOpenFiles": [
-    "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
+    "Interview Questions.md",
     "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
-    "Untitled.md",
+    "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
     "1. Solidity/6. Web3.js.md",
     "1. Solidity/3. Advanced Concepts.md",
     "1. Solidity/4. More Advanced Concepts.md",
