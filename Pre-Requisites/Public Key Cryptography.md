@@ -1,5 +1,5 @@
 ## What is Public Key Cryptography?
-- An encryption scheme that uses two mathematically related, but not identical, keys
+- An encryption scheme that uses two mathematically related, but not identical,  digital keys
 	- A public key and a private key
 - Unlike symmetric key algorithms that reply on one key to both encrypt and decrypt messages, each key in this scheme performs a unique function
 - You can use them in the following ways
