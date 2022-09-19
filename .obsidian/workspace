@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "6f79c32a886914e6",
+    "id": "afb9744817c235b1",
     "type": "split",
     "children": [
       {
-        "id": "91e26f8c212d7755",
+        "id": "0ca04002de880f89",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
-            "mode": "preview",
+            "file": "CryptoZombies/README.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cb2633c37cb20546",
+    "id": "1e91d720cf5bca63",
     "type": "split",
     "children": [
       {
-        "id": "7ae6f1f0f30333a4",
+        "id": "5b00ca99e1a1ff6e",
         "type": "tabs",
         "children": [
           {
-            "id": "b02d01e914170b98",
+            "id": "1392caec4e9bad6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "c8da7c982347734c",
+            "id": "402fcc1f8e6c615c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "3548169eeba3abb1",
+            "id": "de7692601dcaab28",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "c6d9b979d993c5b1",
+    "id": "b319dedf08bc495e",
     "type": "split",
     "children": [
       {
-        "id": "6fd6e8ee27e88975",
+        "id": "441a5bccf4477eed",
         "type": "tabs",
         "children": [
           {
-            "id": "966551b10069e948",
+            "id": "46ff4ef25a562f77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
+                "file": "CryptoZombies/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "d483770afe9c1082",
+            "id": "0a59d4b005a79326",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
+                "file": "CryptoZombies/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "36b25061f7abf976",
+            "id": "1cbb8eb546fee3df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "703ae432be5b857a",
+            "id": "c2857576954bd41c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Advanced Solidity/2. Deploying DApps with Truffle.md"
+                "file": "CryptoZombies/README.md"
               }
             }
           }
@@ -128,17 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91e26f8c212d7755",
+  "active": "0ca04002de880f89",
   "lastOpenFiles": [
-    "3. Advanced Solidity/1. Testing Smart Contracts with Truffle.md",
-    "3. Advanced Solidity/2. Deploying DApps with Truffle.md",
-    "1. Solidity/2. More Basics.md",
-    "1. Solidity/3. Advanced Concepts.md",
-    "Interview Questions.md",
-    "1. Solidity/6. Web3.js.md",
-    "1. Solidity/4. More Advanced Concepts.md",
-    "2. ChainLink/2. Chainlink Introduction.md",
-    "ChainLink/2. Chainlink Data Feeds Introduction.md",
-    "1. Solidity/1. The Basics.md"
+    "CryptoZombies/2. ChainLink/2. Chainlink.md",
+    "CryptoZombies/README.md",
+    "UdemyEthereumSolidity/Function Declarations.md"
   ]
 }
